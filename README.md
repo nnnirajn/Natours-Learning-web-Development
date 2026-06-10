@@ -23,6 +23,7 @@ https://nnnirajn.github.io/Natours-Learning-web-Development/
 ### Screenshots :
 Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/Natours-Learning-web-Development/
 
-<img width="1077" height="621" alt="image" src="https://github.com/user-attachments/assets/a3495d4a-86cb-4a12-a7cf-207f8cb27d5a" />
+<img width="1096" height="643" alt="image" src="https://github.com/user-attachments/assets/120aecdd-6ee7-45db-aa8f-cc59f4447c71" />
+
 
 
