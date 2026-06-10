@@ -9,7 +9,7 @@ Natours  A modern and visually stunning travel and adventure landing page built 
 1. HTML5
 2. CSS3 
 3. Javascript
-4. Media Query 
+4. Media Query
 
 ### Third Party Library :
 NA
@@ -18,7 +18,7 @@ NA
 To Run the project, need to open the below link in any browser 
 https://nnnirajn.github.io/Natours-Learning-web-Development/
 ### Small Assumptions :
-1. This is static Website. No APi or backend is added in it.
+1. This is static Website. No APi/backend is added in it.
 
 ### Screenshots :
 Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/Natours-Learning-web-Development/
